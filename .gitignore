@@ -1,0 +1,6 @@
+data_1
+__pycache__/
+*.py[cod]
+.venv/
+.testdeps/
+*.part
