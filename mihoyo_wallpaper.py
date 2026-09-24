@@ -35,7 +35,7 @@ from PySide6.QtWidgets import (
 )
 
 
-CACHE_RELATIVE_PATH = Path("miHoYo/HYP/1/_1/fedata/Cache/Cache/_Data/data_1")
+CACHE_RELATIVE_PATH = Path("miHoYo/HYP/1_1/fedata/Cache/Cache_Data/data_1")
 LOGO_PATH = Path(__file__).resolve().parent / "logo.ico"
 WINDOWS_APP_ID = "luoriguixi.mihoyo_wallpaper"
 PROJECT_URL = "https://github.com/lrgx/miyobg.git"
